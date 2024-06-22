@@ -19,4 +19,4 @@ redirect_from:
 
 # Experience
 
-I have two years of experience developing React applications for startups and non-profits in the Seattle area. The technologies I generally use are Next.js, Supabase, Prisma, tRPC, and Shadcn.
+I have more than two years of experience developing React applications for startups and non-profits in the Seattle area. The technologies I generally use are Next.js, Supabase, Prisma, tRPC, and Shadcn.

@@ -401,7 +401,7 @@ Finally I added the places autocomplete searchbox. I also loaded the google maps
           )}
         </PlacesAutocomplete>
         <Script
-          src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBMePTwqFO2xPCaxUYqq0Vq4JQc631jo0o&libraries=places"
+          src="https://maps.googleapis.com/maps/api/js?key=key"
           strategy="beforeInteractive"
         ></Script>
 ```
@@ -597,7 +597,7 @@ const App = ({ locations }) => {
 
 
         <Script
-          src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBMePTwqFO2xPCaxUYqq0Vq4JQc631jo0o&libraries=places"
+          src="https://maps.googleapis.com/maps/api/js?key=key&libraries=places"
           strategy="beforeInteractive"
         ></Script>
       </div>
